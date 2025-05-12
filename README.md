@@ -115,6 +115,10 @@ Feel free to reach out to the team for support or collaboration opportunities:
   - Email: [prachibhagat999@gmail.com](mailto:prachibhagat999@gmail.com)  
   - Contact: +91 8799936244  
 
+- **Sneha Chavan**  
+  - Branch: Computer  
+  - Email: [snchavan1515@gmail.com](mailto:snchavan1515@gmail.com)  
+  - Contact: +91 7350296838  
 
 
 ---
