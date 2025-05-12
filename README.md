@@ -125,6 +125,10 @@ Feel free to reach out to the team for support or collaboration opportunities:
   - Email: [patildarshann3@gmail.com](mailto:patildarshann3@gmail.com)  
   - Contact: +91 9860385314  
 
+- **Atharv Bhosale**  
+  - Branch: Computer  
+  - Email: [atharvbhosale00@gmail.com](mailto:atharvbhosale00@gmail.com)  
+  - Contact: +91 9561706020  
 
 ---
 
