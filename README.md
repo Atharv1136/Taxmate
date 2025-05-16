@@ -134,4 +134,4 @@ Feel free to reach out to the team for support or collaboration opportunities:
 
 ### 🙏 Thank You!  
 
-Feel free to contribute or report issues by opening an [Issue](https://github.com/YourUsername/tax-mate/issues).  
+
