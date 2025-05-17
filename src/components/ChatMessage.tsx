@@ -85,14 +85,3 @@ export const ChatMessage: React.FC<ChatMessageProps> = ({ message, onOptionSelec
                   key={option}
                   onClick={() => onOptionSelect?.(option)}
                   className="px-4 py-2 text-sm bg-white border border-blue-200 rounded-full hover:bg-blue-50 hover:border-blue-300 transition-colors shadow-sm text-blue-600 font-medium"
-                >
-                  {option}
-                </button>
-              ))}
-            </div>
-          )}
-        </div>
-      </div>
-    </div>
-  );
-}
