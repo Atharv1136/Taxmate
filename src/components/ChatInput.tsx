@@ -31,9 +31,3 @@ export const ChatInput: React.FC<ChatInputProps> = ({ onSend, disabled }) => {
         type="submit"
         disabled={disabled || !input.trim()}
         className="p-2 rounded-full bg-blue-500 text-white disabled:bg-gray-300 hover:bg-blue-600 transition-colors shadow-md disabled:shadow-none"
-      >
-        <Send className="w-5 h-5" />
-      </button>
-    </form>
-  );
-}
