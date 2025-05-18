@@ -293,4 +293,12 @@ function App() {
             disabled={
               messages.length > 0 &&
               messages[messages.length - 1].options !== undefined
+            }
+          />
+        </footer>
+      </div>
+    </div>
+  );
+}
 
+export default App;
