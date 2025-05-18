@@ -27,10 +27,3 @@ export const taxSavingOptions = [
     ]
   },
   {
-    section: '80D',
-    options: [
-      { name: 'Health Insurance Premium', maxLimit: 25000 },
-      { name: 'Parents Health Insurance Premium', maxLimit: 50000 }
-    ]
-  }
-];
