@@ -29,4 +29,7 @@
 .animate-slide-up {
   animation: slideUp 0.8s ease-out forwards;
 }
-
+.animate-slide-up-delay {
+  animation: slideUp 0.8s ease-out 0.3s forwards;
+  opacity: 0;
+}
