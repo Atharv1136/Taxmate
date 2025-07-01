@@ -16,8 +16,3 @@ export type IncomeDetails = {
   interest?: string;
 };
 
-export type ITRForm = {
-  name: string;
-  description: string;
-  applicableFor: string[];
-};
