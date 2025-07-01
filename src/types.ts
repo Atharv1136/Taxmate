@@ -15,4 +15,8 @@ export type IncomeDetails = {
   capitalgains?: string;
   interest?: string;
 };
-
+  export type ITRForm = {
+  name: string;
+  description: string;
+  applicableFor: string[];
+};
