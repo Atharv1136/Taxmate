@@ -20,4 +20,3 @@ hu{
   },
   "include": ["vite.config.ts"]
 
-}
